@@ -2,8 +2,14 @@ const ExperienceList = [
   {
     year:"2017",
     name:"UCLA-Extension",
-    title: "Volunteer TA",
+    title: "Teacher Assistant",
     topic: "Assist students in learning HTML, CSS, Bootstrap, AJAX, JSON, JavaScript."
+  },
+  {
+    year:"2017",
+    name:"Trinity Education Services",
+    title: "FullStack Developer",
+    topic: "Collaborated on deploying new frontend application using React, Redux, React Bootstrap, ES2015, Node.js."
   },
   {
     year: "2014-present",
